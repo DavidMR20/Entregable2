@@ -289,7 +289,7 @@ top:1950px
 .Forms{
     width: 80%;
     height: 70vh;
-    background-color:#4aacca;
+ border: solid 2px black;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -297,8 +297,8 @@ top:1950px
 }
 
 .forms-2{
-    width: 75%;
-    height: 55%;
+    width: 80%;
+    height: 70vh;
     position: relative;
 }
     
