@@ -285,6 +285,22 @@ top:1950px
     border-style: double solid black;
     border: black solid 2px;
 }
+.Forms{
+    width: 80%;
+    height: 70vh;
+    background-color:#4aacca;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.forms-2{
+    width: 75%;
+    height: 55%;
+    position: relative;
+}
+
 .footer{
     width: 80%;
     height: em;
